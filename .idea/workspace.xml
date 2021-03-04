@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b1edb4-a2bb-42a6-a419-4d6c174ca798" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/pkg/strings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/count_substring.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/index_in_string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/repeat_string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/toupper_lower.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,12 @@
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../Program Files/Go" />
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
@@ -47,20 +57,28 @@
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
-  <component name="RunManager" selected="Go 构建.go build strings.go">
-    <configuration name="go build hello_world1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go 构建.go build repeat_string.go">
+    <configuration name="go build count_substring.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/eBook/examples/chapter_2/hello_world1.go" />
+      <filePath value="$PROJECT_DIR$/pkg/count_substring.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build pointer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build index_in_string.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/eBook/examples/chapter_4/pointer.go" />
+      <filePath value="$PROJECT_DIR$/pkg/index_in_string.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build repeat_string.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/pkg/repeat_string.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -80,21 +98,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build version.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/eBook/examples/chapter_2/version.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build repeat_string.go" />
+        <item itemvalue="Go 构建.go build count_substring.go" />
+        <item itemvalue="Go 构建.go build index_in_string.go" />
         <item itemvalue="Go 构建.go build strings.go" />
         <item itemvalue="Go 构建.go build type_mixing.go" />
-        <item itemvalue="Go 构建.go build pointer.go" />
-        <item itemvalue="Go 构建.go build hello_world1.go" />
-        <item itemvalue="Go 构建.go build version.go" />
       </list>
     </recent_temporary>
   </component>
