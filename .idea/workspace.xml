@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b1edb4-a2bb-42a6-a419-4d6c174ca798" name="默认的" comment="add2">
-      <change afterPath="$PROJECT_DIR$/src/for1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/for_string.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/season.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch2.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +165,8 @@
     <MESSAGE value="strings包使用" />
     <MESSAGE value="add" />
     <MESSAGE value="add2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add2" />
+    <MESSAGE value="addfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="addfile" />
   </component>
   <component name="hg4idea.settings">
     <option name="CHECK_INCOMING_OUTGOING" value="true" />
